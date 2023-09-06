@@ -1,32 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "/home/SSMPHMAO.LOCAL/fominvv/Рабочий стол/GB/GB/lesson02/task04/task04.csproj": {}
+    "D:\\GB_Учеба\\C#\\LESSON02\\task04\\task04.csproj": {}
   },
   "projects": {
-    "/home/SSMPHMAO.LOCAL/fominvv/Рабочий стол/GB/GB/lesson02/task04/task04.csproj": {
+    "D:\\GB_Учеба\\C#\\LESSON02\\task04\\task04.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/SSMPHMAO.LOCAL/fominvv/Рабочий стол/GB/GB/lesson02/task04/task04.csproj",
+        "projectUniqueName": "D:\\GB_Учеба\\C#\\LESSON02\\task04\\task04.csproj",
         "projectName": "task04",
-        "projectPath": "/home/SSMPHMAO.LOCAL/fominvv/Рабочий стол/GB/GB/lesson02/task04/task04.csproj",
-        "packagesPath": "/home/SSMPHMAO.LOCAL/fominvv/.nuget/packages/",
-        "outputPath": "/home/SSMPHMAO.LOCAL/fominvv/Рабочий стол/GB/GB/lesson02/task04/obj/",
+        "projectPath": "D:\\GB_Учеба\\C#\\LESSON02\\task04\\task04.csproj",
+        "packagesPath": "C:\\Users\\Администратор\\.nuget\\packages\\",
+        "outputPath": "D:\\GB_Учеба\\C#\\LESSON02\\task04\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "/usr/lib64/dotnet/sdk/NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "/home/SSMPHMAO.LOCAL/fominvv/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Администратор\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "net6.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {}
           }
         },
@@ -37,29 +35,25 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
+        "net6.0": {
+          "targetAlias": "net6.0",
           "imports": [
             "net461",
             "net462",
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[3.1.3, 3.1.3]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/3.1.106/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.413\\RuntimeIdentifierGraph.json"
         }
       }
     }
