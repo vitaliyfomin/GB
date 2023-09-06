@@ -8,3 +8,5 @@ Console.Write("Введите третье число: ");
 double numb3 = Convert.ToDouble(Console.ReadLine());
 
 double max = Math.Max(numb1, Math.Max(numb2, numb3));
+
+Console.WriteLine($"Максимальное число: {max}");
