@@ -1,0 +1,11 @@
+/home/SSMPHMAO.LOCAL/fominvv/Рабочий стол/GB/GB/lesson02/task04/bin/Debug/netcoreapp3.1/task04
+/home/SSMPHMAO.LOCAL/fominvv/Рабочий стол/GB/GB/lesson02/task04/bin/Debug/netcoreapp3.1/task04.deps.json
+/home/SSMPHMAO.LOCAL/fominvv/Рабочий стол/GB/GB/lesson02/task04/bin/Debug/netcoreapp3.1/task04.runtimeconfig.json
+/home/SSMPHMAO.LOCAL/fominvv/Рабочий стол/GB/GB/lesson02/task04/bin/Debug/netcoreapp3.1/task04.runtimeconfig.dev.json
+/home/SSMPHMAO.LOCAL/fominvv/Рабочий стол/GB/GB/lesson02/task04/bin/Debug/netcoreapp3.1/task04.dll
+/home/SSMPHMAO.LOCAL/fominvv/Рабочий стол/GB/GB/lesson02/task04/bin/Debug/netcoreapp3.1/task04.pdb
+/home/SSMPHMAO.LOCAL/fominvv/Рабочий стол/GB/GB/lesson02/task04/obj/Debug/netcoreapp3.1/task04.csprojAssemblyReference.cache
+/home/SSMPHMAO.LOCAL/fominvv/Рабочий стол/GB/GB/lesson02/task04/obj/Debug/netcoreapp3.1/task04.AssemblyInfoInputs.cache
+/home/SSMPHMAO.LOCAL/fominvv/Рабочий стол/GB/GB/lesson02/task04/obj/Debug/netcoreapp3.1/task04.AssemblyInfo.cs
+/home/SSMPHMAO.LOCAL/fominvv/Рабочий стол/GB/GB/lesson02/task04/obj/Debug/netcoreapp3.1/task04.dll
+/home/SSMPHMAO.LOCAL/fominvv/Рабочий стол/GB/GB/lesson02/task04/obj/Debug/netcoreapp3.1/task04.pdb
